@@ -1,0 +1,19 @@
+{
+  "name": "streamsphere",
+  "version": "1.0.0",
+  "description": "video streaming app with admin panel",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/N-liraj-khanna/StreamSphere.git"
+  },
+  "author": "N LIRAJKHANNA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/N-liraj-khanna/StreamSphere/issues"
+  },
+  "homepage": "https://github.com/N-liraj-khanna/StreamSphere#readme"
+}
