@@ -4,7 +4,7 @@
   "description": "Video Conferencing Appilcation",
   "main": "app.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon app.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/N-liraj-khanna/WebConverse/issues"
   },
-  "homepage": "https://github.com/N-liraj-khanna/WebConverse#readme"
+  "homepage": "https://github.com/N-liraj-khanna/WebConverse#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
 }

@@ -1,0 +1,11 @@
+Flow of the project
+- Start/Initialize the application
+- Put in the first page
+- Create room using sockets.io
+- add video and broadcast to all
+- add all others to broadast to all
+- style it
+- Create messaging system
+- do mute and unmute ability
+- similarly for video, switch it on and off
+- and pretty much done...
