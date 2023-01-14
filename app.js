@@ -1,5 +1,6 @@
 // Import Packages
 const express = require('express');
+const {v4:uuidv4} = require('uuid');
 
 // Initialise Constants
 const app = express();
@@ -10,7 +11,11 @@ app.use(express.static('public'))
 
 // Routes
 app.get("/",(req, res) => {
-  return res.render("index");
+  return res.redirect(`/${uuidv4()}`);
+})
+
+app.get("/:id",(req, res) => {
+  return res.render("index", {uuid:req.params.id});
 })
 
 // Server Setup
