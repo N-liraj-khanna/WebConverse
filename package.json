@@ -19,7 +19,10 @@
   "dependencies": {
     "ejs": "^3.1.8",
     "express": "^4.18.2",
+    "peer": "^0.6.1",
     "socket.io": "^4.5.4",
+    "socket.io-client": "^4.5.4",
+    "unique-names-generator": "^4.7.1",
     "uuid": "^9.0.0"
   }
 }
