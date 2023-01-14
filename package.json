@@ -1,19 +1,19 @@
 {
-  "name": "streamsphere",
+  "name": "webconverse",
   "version": "1.0.0",
-  "description": "video streaming app with admin panel",
+  "description": "Video Conferencing Appilcation",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/N-liraj-khanna/StreamSphere.git"
+    "url": "git+https://github.com/N-liraj-khanna/WebConverse.git"
   },
-  "author": "N LIRAJKHANNA",
+  "author": "N LIAJKHANNA",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/N-liraj-khanna/StreamSphere/issues"
+    "url": "https://github.com/N-liraj-khanna/WebConverse/issues"
   },
-  "homepage": "https://github.com/N-liraj-khanna/StreamSphere#readme"
+  "homepage": "https://github.com/N-liraj-khanna/WebConverse#readme"
 }
